@@ -1,0 +1,8 @@
+Thin PHP Backend
+================
+
+
+Setup:
+ 1) Run create.sql
+ 2) Copy config.php to "util/config.php" and configure correctly.
+ 3) Upload to server
